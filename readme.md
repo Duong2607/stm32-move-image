@@ -5,4 +5,7 @@ Please note this TouchGFX Board Setup is only supported from TouchGFX 4.20.0. Co
 This TBS is configured for 320 x 240 pixels 16bpp screen resolution.  
 
 Performance testing can be done using the GPIO pins designated with the following signals: VSYNC_FREQ  - Pin PE2, RENDER_TIME - Pin PE3, FRAME_RATE  - Pin PE4, MCU_ACTIVE  - Pin PE5
+# Điều khiển ô tô di chuyển trên màn
+# Demo sản phẩm
+https://github.com/Duong2607/stm32-move-image/assets/120171585/074f7167-495c-4109-8505-9ca7f0437f91
  
